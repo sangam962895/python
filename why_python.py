@@ -76,7 +76,8 @@
 # Arguments vs Parameters
 # Parameters are variables defined in a function definition, while arguments are actual values passed during function calls.
 
-# What is Return?
+# What is Return? --> retern the value of a paticular block of codes output
+
 # Function se value wapas bhejne ke liye.
 # Why use it?
 # Result ko function ke bahar use karne ke liye.
